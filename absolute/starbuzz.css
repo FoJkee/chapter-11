@@ -76,3 +76,20 @@ div#tableContainer {
 div#tableRow {
   display: table-row;
 }
+#header img#headerSlogan {
+  float: right;
+}
+#award {
+  position: absolute;
+  top: 30px;
+  left: 365px;
+}
+#coupon {
+  position: fixed;
+  left: -90px;
+  top: 350px;
+}
+#coupon a,
+img {
+  border: none;
+}
